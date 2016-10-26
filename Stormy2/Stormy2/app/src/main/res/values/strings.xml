@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_message">There was an error,please try again</string>
+    <string name="error_ok_button_text">Ok</string>
+    <string name="network_unavailable_message">Network is unavailable!</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_daily_forecast_data">There is no data to display</string>
+    <string name="title_activity_hourly_forecast">HourlyForecastActivity</string>
+    <string name="title_activity_location">Location</string>
+    <string name="service_not_available"/>
+    <string name="invalid_lat_long_used"/>
+    <string name="latitude_label"/>
+    <string name="longitude_label"/>
+    <string name="last_update_time_label"/>
+    <string name="no_address_found"/>
+    <string name="address_found"/>
+</resources>
